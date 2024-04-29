@@ -50,7 +50,7 @@ const AddEmployee = (props: Props) => {
         <form className="bg-gray-50 shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
             <div className="mb-6">
                 <h3 className="text-purple-600 font-semibold text-xl text-center">
-                    Add Employee Details
+                    Add Contact Details
                 </h3>
             </div>
             <div className="mb-4">
